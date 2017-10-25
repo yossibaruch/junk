@@ -1,0 +1,75 @@
+Unit 5 Quiz
+
+Unit 5: Question 1
+EnCase’s FastBloc SE is a ______ that prevents any modifications to evidence drives.
+hardware blocker
+forensic imaging software
+*software blocker
+
+Unit 5: Question 2
+Which of the following statement is NOT true about EnCase images?
+An EnCase image includes both MD5 and SHA1 hash values of the data source.
+An EnCase image includes the Cyclic Redundancy Check (CRC) checksums for every 64 sectors of data for error detection.
+EnCase images use extensions of ".E01", ".Ex01", ".Lx01".
+*An EnCase image is exactly the same as a raw dd image.
+
+Unit 5: Question 3
+Which of these devices or media can not be acquired using FTK imager without changing data on the devices? (Select all that apply)
+Hard drives combined with write blockers
+*Hard drives without write blockers
+*USB device without write protections
+Write protected flash media
+
+Unit 5: Question 4
+Which of these tools are host-based Windows memory (RAM) acquisition tools? (Select two)
+volatility framework
+*FTK Imager from Access Data
+fmem
+*winen.exe from Guidance Software
+
+Unit 5: Question 5
+If a rootkit is installed on a Windows system to hide a malicious process by unlinking this process from the EPROCESS list, which of the following Volatility Framework plugin is still able to list/display this hidden process, given the Windows system’s memory image?
+pslist
+dlllist
+psscan
+dllscan
+
+Unit 5: Question 5
+If a rootkit is installed on a Windows system to hide a malicious process by unlinking this process from the EPROCESS list, which of the following Volatility Framework plugin is still able to list/display this hidden process, given the Windows system’s memory image?
+pslist
+dlllist
+*psscan
+dllscan
+
+Unit 5: Question 6
+To recover GIF files from a Windows pagefile (Note: a page file is a file on a hard drive that is used as a temporary location to store information not being used by the computer RAM at the moment), an investigator can use:
+*a data carving tool to extract GIF files from the pagefile.
+the utility strings to dump out GIF files from the pagefile.
+It is impossible to recover GIF files from a pagefile since there is no filesystem structure in pagefile.
+
+Unit 5: Question 7
+True or False: Helix3 operates in two different modes, one is in a windows live mode and another is in a bootable environment. When using Helix3's bootable CD in a bootable environment, Helix3 only mounts the hard drives in read-only mode.
+*True
+False
+
+Unit 5: Question 8
+Which of the following tools are memory forensic analysis tools for analyzing memory images/dumps? (Select two)
+*Rekall Memory Forensics Framework
+LiME
+MemoryDD
+*Volatility Framework
+
+Unit 5: Question 9
+Which of these commands and tools will display Windows system information? (Select two) Hint: Check lecture slides: Memory Acquisition
+*Helix3 in Windows Live mode
+*psinfo (from Windows sysinternals suite)
+pslist (from Windows sysinternals suite)
+uname
+
+Unit 5: Question 10
+How can a cold boot attack be useful in memory forensics?
+It can be used to execute a network based attack on the target PC.
+*It may be possible to get a memory snapshot after a quick restart when there is no other viable solution.
+It is useful to plant a Trojan to the suspected PC.
+It is absolutely useless in memory forensics.
+unanswered

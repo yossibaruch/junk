@@ -1,0 +1,70 @@
+Unit 4 Quiz
+
+Unit 4: Question 1
+Which of the following is a popular open-source forensic analysis tool in use today?
+EnCase Forensic
+FTK
+FTK Imager
+*Sleuthkit/Autopsy
+
+Unit 4: Question 2
+The Unix command touch is able to modify a file's: (Select two.)
+*access time
+change time
+creation time
+*modification time
+
+Unit 4: Question 3
+What command is designed to display partition information in the unit of a 512-byte sector?
+*mmls
+fdisk
+file
+diskview
+
+Unit 4: Question 4
+Which of the following are data carving tools? (Select two)?
+file
+*foremost
+find
+*scalpel
+
+Unit 4: Question 5
+True or False: foremost can recover a jpeg file along with its original filename from a given image if the jpeg file type is specified in the file foremost.conf and the jpeg file content is not overwritten.
+True
+*False
+
+Unit 4: Question 6
+Recovering deleted files from ext3/ext4 filesystem is harder than recovering deleted files from ext2 filesystem because after a file in an ext3/ext4 filesystem is deleted: (Select two.)
+the file's data blocks content is cleaned
+*the file's data blocks information in its inode is cleared
+*The file size in the inode is set to zero
+The inode content is completely wiped
+unanswered
+
+Unit 4: Question 7
+When mounting an image file instead of a device file using mount in Linux, we use mount with the option:
+dev
+device
+file
+image
+*loops
+
+Unit 4: Question 8
+Sat Feb. 12 2010 16:40:20 1234 .a. -rwxr-xr-x root root /bin/file_a from a mactime output means that on Feb. 12, 2010 at 16:40:20, the file /bin/file_a was:
+created
+*last accessed
+last changed
+last modified
+None of the aboves
+
+Unit 4: Question 9
+To identify and list all SUID / SGID files from a partition, forensic examiners use the command:
+*find
+grep
+ls –l
+ps
+
+Unit 4: Question 10
+True or False: The command mactime creates a timeline of file activities by sorting file entries based on files’ finenames.
+True
+*False
