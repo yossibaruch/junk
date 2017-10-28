@@ -1,0 +1,77 @@
+Security Metrics 1 Quiz
+
+UNIT 4: Question 1
+Which of these statements is true:
+Security is a solution you can purchase
+*Security is a process
+Security is an end product
+
+UNIT 4: Question 2
+What is the shortcoming of ALE formula: ALE=SLE*AOR?
+*It is hard to model outliers
+It is not sensitive to small changes in assumptions
+It does not capture the asset value.
+
+UNIT 4: Question 3
+What are main challenges faced by Security Metrics Programs? (Select three)
+Conventional Risk Matrix approach is not sufficient.
+*Lack of common definitions for terms and metrics
+*Legal concerns and incentive failures
+Quantitative methods are better than qualitative ones.
+*Unwillingness to share security information
+
+UNIT 4: Question 4
+Security metrics seek to measure: (Select three)
+*Effectiveness of the security operations
+Overall IT operation costs
+*Return on Security Investment (ROSI)
+*To understand the risk environment
+User compliance
+
+UNIT 4: Question 5
+Which statements are true? (Select two)
+*Security Measurement is a bottom-up approach.
+Security Modeling approach is purely driven by observations and empirical data.
+*Security Modeling is a top-down approach.
+
+UNIT 4: Question 6
+Metrics with high frequency measurement but relative low importance, such as anti-malware data, network operations, are usually used for which type of decision-making?
+Crisis Management
+*Operations Management
+Program Planning
+Strategic Planning
+
+UNIT 4: Question 7
+True or False: The qualitative labels or scores like “high”, “medium”, “low” are not considered “Good Metrics”.
+*True
+False
+
+UNIT 4: Question 8
+True or False: In the McKinsey style of diagnostics, the overall hypothesis will be proven to be true if all its sub-hypothesis are held true.
+*True
+False
+
+UNIT 4: Question 9
+In the McKinsey style of diagnostics, the overall hypothesis can be decomposed into a number of sub-hypotheses, each of which can be supported or disproven by:
+*Asking specific questions that can be measured precisely and empirically
+Consulting end-users’ opinions
+Key decision makers in the company
+
+UNIT 4: Question 10
+“Mean time to recover” (MTTR) is an example of what type of metric?
+Application risks
+*Availability and reliability
+Coverage and control
+Perimeter defenses
+
+UNIT 4: Question 11
+Which of these metrics is a measurement of the “effectiveness of spam filtering software”?
+Number of email messages received per day
+*Number of spam messaged not-detected/missed
+Number of spam messages detected/filtered
+
+UNIT 4: Question 12
+Which of these metrics belongs to the Coverage and Control category?
+Mean time between failures
+Mean time to recovery (MTTR)
+*Number of patches applied outside of maintenance windows

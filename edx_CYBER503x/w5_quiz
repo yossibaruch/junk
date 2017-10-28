@@ -1,0 +1,75 @@
+Security Metrics 2 Quiz
+
+UNIT 5: Question 1
+What are three ways to measure Application Security? (Select three)
+*Black-box defect metrics
+*Code security metrics
+Mean time to recovery
+Number of firewall rule changes per business unit
+*Qualitative process metrics and indices
+
+UNIT 5: Question 2
+Which tool can be used for black-box defect metrics?
+Spam filter software
+*Penetration testing tools
+Backup software
+
+UNIT 5: Question 3
+True or false: Business-Adjusted Risk (BAR) is a quantitative approach to measure Application Security.
+True
+*False
+
+UNIT 5: Question 4
+What are the three primary areas of the Application Insecurity Index (AII)? (Select three)
+*Assessed Risk
+*Business importance
+Code reviews
+Penetration Testing
+*Technology outlier
+
+UNIT 5: Question 5
+Which of these is not a metric for Code Security?
+*Application Insecurity Index
+Security defects per KLOC
+Vulnerability density (vulnerability per unit of code)
+
+UNIT 5: Question 6
+Which standards organization defines Security Program Metrics into four domains?
+*COBIT
+ISO
+NIST
+
+UNIT 5: Question 7
+Which Program Metrics category includes metrics for “Install and accredit solutions”?
+Planning and organization
+*Acquisition and implementation
+Delivery and support
+Monitoring
+
+UNIT 5: Question 8
+Which Program Metrics category includes the processes for defining strategic security plans, scoping overall program budgets, and levels of investment?
+*Planning and organization
+Acquisition and implementation
+Delivery and support
+Monitoring
+
+UNIT 5: Question 9
+Which Program Metrics category includes metrics such as “percent of back up media stored with third party” for managing data?
+Planning and organization
+Acquisition and implementation
+*Delivery and support
+Monitoring
+
+UNIT 5: Question 10
+Which Program Metrics category includes Regulatory compliance metrics?
+Planning and organization
+Acquisition and implementation
+Delivery and support
+*Monitoring
+
+UNIT 5: Question 11
+Which Program Metrics category includes metrics for “educate and train users”?
+Planning and organization
+Acquisition and implementation
+*Delivery and support
+Monitoring
