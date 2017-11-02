@@ -1,0 +1,74 @@
+Unit 6 Quiz
+
+Unit 6: Question 1
+Which statement is true when a file is deleted under FAT filesystems?
+The file name is removed from the parent directory.
+*The system replaces the first character of the file name with a special character.
+The data contents of the file are removed from the disk.
+The system wipes the file’s metadata, thereby preventing discovery of the data block.
+
+Unit 6: Question 2
+When a deleted cluster is reused, the unused portion of the cluster is filled with the leftover data from previous files. This space, which may still contain useful information for forensic investigator, is called:
+unallocated space
+unused space
+*slack space
+waste space
+unanswered
+
+Unit 6: Question 3
+In Windows 8 and later versions, registry hive _____ stores information of a USB’s last insertion and removal timestamps.
+SAM
+NTUSER.dat
+SOFTWARE
+*SYSTEM
+
+Unit 6: Question 4
+In a FAT file system, where does a file’s first/starting cluster address reside?
+FAT table
+The file’s content
+The file’s header
+*A directory entry in the file’s parent directory
+
+Unit 6: Question 5
+Which data structure is used as a lookup table to see which cluster comes next in a FAT file system?
+Cluster Sequence Table
+*File Allocation Table
+Master Boot Record
+Master File Table
+Root directory
+
+Unit 6: Question 6
+Which of the follwoing is NOT a true statement about NTFS?
+*The key component of NTFS is File Allocation Table.
+NTFS is a journaling file system.
+NTFS uses 64 bits for defining a cluster.
+NTFS stores permissions for each file and directory.
+
+Unit 6: Question 7
+Which of these formatting processes will zero out both the root directory entries and the file allocation table entries only? Since this type of formatting process doesn't touch the data area, it does not sanitize disks completely.
+Full format
+*Quick format
+Half format
+Efficient format
+
+Unit 6: Question 8
+Which registry file can be used to identify the user who last logged into the system?
+NTUSER.dat
+*SAM
+SECURITY
+SOFTWARE
+SYSTEM
+
+Unit 6: Question 9
+In a Windows NTFS file system, which of the following file stores its data content inside its Master File Table (MFT) record?
+$MFT
+A file whose file size is 10 bytes.
+A file whose files size is 10 kilobytes
+Page file
+
+Unit 6: Question 10
+In a Windows system, the current Time Zone information for a system resides in:
+NTUSER.dat.
+SAM registry hive.
+SOFTWARE registry hive.
+*SYSTEM registry hive.
