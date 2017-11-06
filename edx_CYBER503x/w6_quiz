@@ -1,0 +1,68 @@
+Data Driven Security 1 Quiz
+
+UNIT 6: Question 1
+What kinds of data are usually used by malware analysts?
+Email and messaging logs
+New patch release activity data
+*Process, memory, and system binary dump
+Wired or wireless network packet data
+
+UNIT 6: Question 2
+In reviewing the history of learning from data, who is used as the representative example used for 20th Century data analysis?
+Statistician Leo Breiman
+*Professor Ronal Fisher
+Dr. John Snow
+
+UNIT 6: Question 3
+In security data analytics pipeline, Data “ETL” stands for:
+Extend, Transfer, Load
+*Extract, Transform, Load
+Extract, Translate, Link
+
+UNIT 6: Question 4
+Which of these are data exploration methods? (Select three)
+*Clustering analysis
+Complex statistical approach, such as Bayesian modeling
+*Dimensionality reduction
+*Summary statistics
+
+UNIT 6: Question 5
+When there are outliers in the data set, which summary statistic is more robust?
+Arithmetic mean
+*Median
+Sum of all data values
+
+https://prod-edxapp.edx-cdn.org/assets/courseware/v1/d7770ab108111ad77543076534989879/asset-v1:RITx+CYBER503x+3T2017+type@asset+block/U6_Q6_7.png
+
+UNIT 6: Question 6
+Which data set has the largest IQR (Interquartile Range)?
+A
+*B
+C
+
+UNIT 6: Question 7
+Which data set has the smallest median value?
+*A
+B
+C
+
+https://prod-edxapp.edx-cdn.org/assets/courseware/v1/2ac0158be107a16cca3fc3b8e58d9987/asset-v1:RITx+CYBER503x+3T2017+type@asset+block/U6_Q8_9.png
+
+UNIT 6: Question 8
+What plot shows a positive correlation?
+A
+*B
+C
+
+UNIT 6: Question 9
+Which plot shows no correlation or random correlation?
+A
+B
+*C
+
+UNIT 6: Question 10
+Comparing correlation and regression, which statement is not true?
+Correlation quantifies the degree to which two attributes X and Y are related, but it does not fit a line through the data.
+*Regressions can only be linear relationships.
+The correlation coefficient indicates the extent to which two variables move together, while regression coefficient indicates the impact of a unit change in the known variable (X) on the estimated variable (Y).
+The regression is a method of finding an equation Y=f(X) that can be used to make predictions for Y based on the value of X.
