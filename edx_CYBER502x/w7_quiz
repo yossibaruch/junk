@@ -1,0 +1,66 @@
+Unit 7 Quiz
+WINDOWS FORENSICS ANALYSIS UNIT QUIZ
+
+Unit 7: Question 1
+In MACE timestamps for timeline analysis of Windows, “C” stands for:
+The last time a file’s inode was changed
+The last time the file’s MFT record was changed
+The last time the file’s access time was changed
+*The time that a file was created
+
+Unit 7: Question 2
+Signature analysis in computer forensics is based on:
+file extensions
+*file header information
+file sizes
+naming conventionss
+
+Unit 7: Question 3
+True or False: If a jpg image file’s extension is changed to a non-graphics file type (such as .txt), this image will not be displayed in the EnCase Gallery view before signature analysis.
+*True
+False
+
+Unit 7: Question 4
+If a Microsoft word file is recorded in an automatic jumplist, which of the following statement is not true?
+The jumplist contains the full path information of this word file.
+*This word file must have been deleted.
+The jumplist records the date and time when this word file was last accessed.
+A user must have accessed this word file.
+
+Unit 7: Question 5
+During a printing process to print a file, the file content is written to a _______ file that embeds graphics EMF for every page. Since this file is deleted after printing, data carving for deleted EMF files is an important forensic analysis step.
+print (.PRINT)
+shadow (.SHD)
+*spool (.SPL)
+temp (.TMP)
+
+Unit 7: Question 6
+How can users try to protect the privacy of their Internet browsing activities? (Select all that apply)
+*Enable private browsing on web browsers
+*Use Tracks Eraser Pro
+*Use CCleaner
+There is no need to protect Internet browsing activities since they cannot be read by others.s
+
+Unit 7: Question 7
+True or false: Sleuthkit/Autopsy, an open source forensic analysis tool, can also analyze Windows images.
+*True
+False
+
+Unit 7: Question 8
+A thumbnails file/cache is an important artifact for forensic investigations because:
+Forensic analysis tools rely on thumbnails to generate a graphics/pictures view.
+*A thumbnails file/cache can prove the existence of an image file if the image file is unrecoverable.
+A thumbnails file/cache saves forensic machine's disk space.
+
+Unit 7: Question 9
+Both EnCase Forensic and FTK support _______, which uses regular expression to match for keywords’ patterns.
+*live search
+indexed search
+tag search
+
+Unit 7: Question 10
+Which statement about Windows Recycle Bin is not true?
+Since Windows Vista, INFO2 files are no longer used by Windows Recycle Bin.
+When a Windows Recycle Bin is emptied, the files and folders in the Recycle Bin become deleted files and folders.
+*When a Windows Recycle Bin is emptied, the entries in INFO2 file or $I files are still stored in the Recycle Bin.
+Neither the INFO2 file nor the $I files are in readable text format.

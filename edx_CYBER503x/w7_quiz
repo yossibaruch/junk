@@ -1,0 +1,71 @@
+Data Driven Security 2 Quiz
+
+UNIT 7: Question 1
+Which of these statements are true? (Select three)
+*Deep learning is a branch of machine learning that specifically focuses on algorithms that construct artificial neural networks inspired by biological neural networks formed in the human brain.
+Artificial Intelligence is a subfield of Machine Learning.
+*Artificial Intelligence is the capability of a machine to imitate intelligent human behavior, or simulate any intellectual task.
+*Machine Learning is the capability of a machine to learn without explicitly being programmed.
+
+UNIT 7: Question 2
+Which of these algorithms or applications is a type of unsupervised learning?
+*Clustering
+Fraud detection
+Regression
+Spam filtering
+
+UNIT 7: Question 3
+Most AI/ML applications in cybersecurity use “classic supervised learning methods” that depend on a training data set with labels. These supervised learning methods often contain which of these components? (Select three)
+*Collect data with labels
+Produce user-facing dashboards
+*Trained model (which could be classifier for threat detector)
+*Training Algorithm
+
+UNIT 7: Question 4
+The first wave of cybersecurity software (for example, Threat Response Automation) was dominated by:
+Fuzzy rule and Heuristics solutions
+Machine Learning based solutions
+*Rule-based deterministic solutions
+
+UNIT 7: Question 5
+What are the challenges in adopting AI/ML in cybersecurity? (Select three)
+*Data are embedded and opaque inside the program
+Lots of dense and cheap labels for training purpose
+*Machine Learning data versioning is hard
+*Traditional software programs are solely composed of source code; Machine learning software programs are composed of source code plus data.
+
+UNIT 7: Question 6
+One of limitations in Signature-based approach for malware detection is that it:
+Fails to detect previous known threats
+*Fails to detect threats with new, evolving capabilities
+Produces a high false negative rate
+Produces a high false positive rate
+
+UNIT 7: Question 7
+Anomaly detection is mostly done using rule-based heuristic methods, because using machine learning methods for anomaly detection has the following challenges: (Select three)
+Anomaly detection is tolerant to errors, and the cost of errors is negligible.
+*Lack of training data, especially lack of data that are labeled as true anomaly.
+*It is hard to interpret the classification results, or so called “Semantic Gap.”
+*It is error prone in adversarial setting since advanced actor can spend time and effort to bypass the learned model.
+
+UNIT 7: Question 8
+Data breach incidents in the retail industry often start with an attacker gaining access through two points of entry for customer information: (Select two)
+Company partner’s web server
+*Company’s online purchase check-out and payment page
+Hacked web server admin passwords
+*In-store point-of-sales cashier portals
+
+UNIT 7: Question 9
+In adversary machine learning, you need to protect the critical assets in your ML solutions, such as the training and production data set, the trained or learned model, and the features used in the learning algorithms. Attackers can poison the model by: (Select two)
+Decreasing the false-negative rate
+*Increasing the false-negative rate, so attacks are misclassified as normal activity
+*Increasing the false-positive rate, so attacks are drowned in sea of “noise” that causes the system to shift its baseline activity
+Increasing the true-positive rate
+
+UNIT 7: Question 10
+Regarding Protected Health Information (PHI) as defined in HIPAA, which of these statements are true? (Select four)
+*Individually identified health information
+*Information about physical or mental health, or healthcare
+*Information about healthcare payment
+*Information created or received by a covered entity in its capacity as a healthcare provider
+Patient information maintained in digital form only
