@@ -1,0 +1,67 @@
+Unit 8 Quiz
+
+Unit 8: Question 1
+Steganalysis is the process of ________steganography and ________hidden evidence.
+using; hiding
+applying; detecting
+*detecting; recovering
+analyzing; studying
+
+Unit 8: Question 2
+The difference between cryptography and steganography is:
+Cryptography hides the fact that the data is there while steganography does not.
+*Steganography hides the fact that the data is there while cryptography does not.
+There is no difference between the two.
+Encryption is only used in cryptography.
+
+Unit 8: Question 3
+The LSB technique used in steganography embeds a payload file content into a carrier file’s:
+less significant bits
+*least significant bits
+large significant bits
+largest significant bits
+
+Unit 8: Question 4
+After using a steganography tool to successfully hide a payload in a carrier file, the file size of the covert file (a combination of the payload and the carrier) is:
+always larger than the carrier’s file size.
+always smaller than the carrier’s file size.
+*not always larger than the carrier’s file size.
+
+Unit 8: Question 5
+After using a steganography tool to successfully hide a payload in a carrier file, compare the hash value of the carrier file with the hash value of the covert message, what would you expect to find?
+The hash values always match.
+The hash values sometimes match.
+*The hash values never match.
+Cannot be determined
+
+Unit 8: Question 6
+What steganography program generates a carrier file on-the-fly to hide secrets?
+JPHS
+Camouflage
+Spam Mimic
+S-tools
+
+Unit 8: Question 7
+True or False: Both EnCase and FTK have built-in features to detect and alert steganographic files.
+True
+*False
+
+Unit 8: Question 8
+What steganography program utilizes the injection method by appending payload after the carrier file’s end-of-file-marker?
+S-tools
+JPHS
+*Camouflage
+Spam Mimic
+
+Unit 8: Question 9
+Which WetStone stego suite tool attempts to break the steganography password and therefore recover stego contents, if possible?
+Stego Analyst
+*Stego Break
+Stego Hunter
+Stego Watch
+
+Unit 8: Question 10
+Which of the following statement is not a true statement about SPYPIX?
+SPYPIX is a stegano program that runs on mobile devices such as iPhone.
+SPYPIX uses the substitution to replace “insignificant” data with hidden text.
+*SPYPIX uses the injection method to append hidden text.

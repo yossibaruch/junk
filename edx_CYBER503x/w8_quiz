@@ -1,0 +1,66 @@
+Special Topics Quiz
+
+UNIT 8: Question 1
+True or False: Because IoT is an ecosystem, IoT Security is not just device security.
+*True
+False
+
+UNIT 8: Question 2
+When comparing IoT malware to traditional viruses, worms, or spam, which of these statements are true? (Select three)
+Conventional anti-virus or anti-spam schemes work well for IoT malware detection and prevention.
+*IoT malware has much less user interaction.
+*IoT malware is hard to kill due to lack of direct interface with the infected product.
+*It is not easy to detect IoT malware using traditional anti-virus schemes.
+
+UNIT 8: Question 3
+What are the two important security principles inside the “secure communication” stack of an IoT system: (Select two)
+*Device initiated connections
+Device Intelligence
+Edge processing
+Identification, authentication and encryption
+*Messaging control
+Remote control and update of devices
+
+UNIT 8: Question 4
+True or False: In practice, when we assess IoT security, we need to model threats at three levels: device level (including data storage and firmware on device), connection levels (including communications between components in IoT ecosystem), and system levels (including APIs with cloud vendor, partner applications).
+*True
+False
+
+UNIT 8: Question 5
+Within the IoT ecosystem, “Cleartext usernames” and “Cleartext passwords” are two IoT surface areas in:
+*Device Memory
+Device Network Services
+Ecosystem Access Control
+Web Cloud Interface
+
+UNIT 8: Question 6
+User or device credentials are critical data assets in the IoT ecosystem. In “Administrative Interface,” one of OWASP IoT Attack Surface areas, what are two vulnerabilities these credential data assets may have? (Select two)
+*Lack of account lockout
+Sent over HTTP
+SQL Injection
+*Weak password policy
+
+UNIT 8: Question 7
+Which statement about Ransomware is not true?
+*Ransomware is a type of computer virus that attacks the “Confidentiality” aspect of Information Security CIA model.
+Ransomware is often initiated through an email phishing scheme.
+The term “Ransomware” comes from “ransom” and “software.”
+
+UNIT 8: Question 8
+True or False: Ransomware has become increasingly pervasive and effective as a form of cybercrime because this style of attack does not require an unusual amount of hacking skill or resources to successfully pull off.
+*True
+False
+
+UNIT 8: Question 9
+Which phishing method focuses on bigger targets, such as C-level executives, politicians, celebrities and deploys highly customized and personalized contents?
+*Blanket phishing
+Spear phishing
+Whaling
+
+UNIT 8: Question 10
+Which statements are true about building Risk Resilience? (Select three)
+*Risk Resilience accepts that every control will fail at some point
+Risk Resilience is about a particular control or solution that can deliver the resilience in facing all kinds of threats and vulnerabilities.
+Risk Resilience is solely about Business Continuity Planning.
+*Risk Resilience sees cyberattacks as inevitable.
+*The key point of is Risk Resilience being able to respond, survive, and prosper when a sudden disruption occurs.
