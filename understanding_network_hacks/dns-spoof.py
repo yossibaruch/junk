@@ -4,7 +4,8 @@ import sys
 import getopt
 import scapy.all as scapy
 
-dev = "eth0"
+dev = "eth0" #listen on eth0
+dev_answer = "eth0" #answer on eth0, can be changed if needed
 filter = "udp port 53"
 file = None
 dns_map = {}
@@ -13,9 +14,10 @@ def handle_packet(packet):
     ip = packet.getlayer(scapy.IP)
     udp = packet.getlayer(scapy.UDP)
     dhcp = packet.getlayer(scapy.DHCP)
-
+    dns = packet.getlayer(scapy.DNS)
+    
     # standard (a record) dns query
-    if dns.qr == 0 and dns.opcode == 0:
+    if dns and dns.qr == 0 and dns.opcode == 0 and dns.qd:
         queried_host = dns.qd.qname[:-1]
         resolved_ip = None
 
@@ -46,7 +48,7 @@ def handle_packet(packet):
             print "Send %s has %s to %s" % (queried_host,
                                             resolved_ip,
                                             ip.src)
-            scapy.send(dns_reply, iface=dev)
+            scapy.send(dns_reply, iface=dev_answer)
 
 
 def usage():
